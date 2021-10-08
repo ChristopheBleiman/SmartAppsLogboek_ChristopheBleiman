@@ -10,5 +10,6 @@
 
 ## Week 3 - X uur
 * Opstart default project in PReact
+* Gesprek met Steven Ophalvens
 
 
