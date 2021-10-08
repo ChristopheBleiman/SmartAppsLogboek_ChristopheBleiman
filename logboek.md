@@ -6,5 +6,9 @@
 ## Week 2 - 3 uur
 * Gesprek met Steven Ophalvens
 * Bespreking van inhoud met groep
-* Gefaalde opstart PReact, vraag in volgend gesprek
+* Gefaalde opstart PReact
+
+## Week 3 - X uur
+* Opstart default project in PReact
+
 
