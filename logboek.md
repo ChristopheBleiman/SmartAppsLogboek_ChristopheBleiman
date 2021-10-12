@@ -8,7 +8,10 @@
 * Bespreking van inhoud met groep
 * Gefaalde opstart PReact
 
-## Week 3 - X uur
+## Week 3 - 8 uur
 * Opstart default project in PReact
+* Gesprek met Steven Ophalvens
+* Start leerproces Angular
+* Getting Started Angular
 
 
