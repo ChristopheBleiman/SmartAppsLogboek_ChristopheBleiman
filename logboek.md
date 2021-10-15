@@ -15,4 +15,5 @@
 * Getting Started Angular
 
 
-
+## Week 4 - 2 uur
+* Getting Started Angular
