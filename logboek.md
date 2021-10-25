@@ -14,6 +14,11 @@
 * Start leerproces Angular
 * Getting Started Angular
 
-
-## Week 4 - 2 uur
+## Week 4 - 5 uur
 * Getting Started Angular
+* Gesprek met Steven Ophalvens
+* Maken van schetsen en mockup versie 1
+
+## Week 5 - 2 uur
+* Gesprek met Steven Ophalvens
+* Nabespreking met groep en updaten doelen
