@@ -19,6 +19,20 @@
 * Gesprek met Steven Ophalvens
 * Maken van schetsen en mockup versie 1
 
-## Week 5 - 2 uur
+## Week 5 - 4 uur
 * Gesprek met Steven Ophalvens
 * Nabespreking met groep en updaten doelen
+* Setup start project
+
+## Week 6 - 5 uur
+* Gesprek met Steven Ophalvens
+* Start Navigatie
+
+## Week 7 - 12 uur (Vakantieweek)
+* Kiezen CSS framework (PrimeNG)
+* Hermaken navigatie
+* Zoektocht savestates (ongoing)
+
+## Week 8 - 5 uur
+* Start API calls
+* Gesprek met Steven Ophalvens
