@@ -36,3 +36,7 @@
 ## Week 8 - 5 uur
 * Start API calls
 * Gesprek met Steven Ophalvens
+
+## Week 9 - 2 uur
+* API calls
+
