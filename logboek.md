@@ -38,5 +38,5 @@
 * Gesprek met Steven Ophalvens
 
 ## Week 9 - 2 uur
-* API calls
+* API calls (Blijft problemen hebben)
 
