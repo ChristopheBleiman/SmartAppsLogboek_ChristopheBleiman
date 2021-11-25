@@ -37,6 +37,11 @@
 * Start API calls
 * Gesprek met Steven Ophalvens
 
-## Week 9 - 2 uur
+## Week 9 - 4 uur (remediëringsweek)
 * API calls (Blijft problemen hebben)
+* Start API calls fix, weergeven lijst lukt
+
+## Week 10 - 3 uur
+* Details Spells API
+
 
