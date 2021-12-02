@@ -41,7 +41,11 @@
 * API calls (Blijft problemen hebben)
 * Start API calls fix, weergeven lijst lukt
 
-## Week 10 - 3 uur
+## Week 10 - 5 uur
 * Details Spells API
+* Gesprek met Steven Ophalvens
+
+## Week 10 - 1 uur (te drukke week persoonlijk en ander schoolwerk)
+* aanmaken firebase
 
 
