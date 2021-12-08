@@ -45,7 +45,11 @@
 * Details Spells API
 * Gesprek met Steven Ophalvens
 
-## Week 10 - 1 uur (te drukke week persoonlijk en ander schoolwerk)
+## Week 11 - 1 uur (te drukke week persoonlijk en ander schoolwerk)
 * aanmaken firebase
+* Gesprek met Steven Ophalvens
 
+## Week 12 - 6 uur
+* failed attempt firebase
+* uittesten read data met angularfire
 
