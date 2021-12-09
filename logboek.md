@@ -49,7 +49,10 @@
 * aanmaken firebase
 * Gesprek met Steven Ophalvens
 
-## Week 12 - 6 uur
+## Week 12 - 10 uur
 * failed attempt firebase
 * uittesten read data met angularfire
+* korte fix login
+* korte fix diceroller
+* character data read
 
