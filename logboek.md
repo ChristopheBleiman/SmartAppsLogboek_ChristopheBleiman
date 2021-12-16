@@ -57,3 +57,7 @@
 * character data read
 * Gesprek met Steven Ophalvens
 
+## Week 13 - 6 uur
+* Create character
+* Bind user to character creation
+
