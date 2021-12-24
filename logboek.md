@@ -61,3 +61,5 @@
 * Create character
 * Bind user to character creation
 
+## Week 13 - 1 uur
+* display characters of logged in person
